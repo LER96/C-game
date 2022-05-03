@@ -1,0 +1,16 @@
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\bin\Debug\net5.0\HomeAlone.exe
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\bin\Debug\net5.0\HomeAlone.deps.json
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\bin\Debug\net5.0\HomeAlone.runtimeconfig.json
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\bin\Debug\net5.0\HomeAlone.runtimeconfig.dev.json
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\bin\Debug\net5.0\HomeAlone.dll
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\bin\Debug\net5.0\ref\HomeAlone.dll
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\bin\Debug\net5.0\HomeAlone.pdb
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.csproj.AssemblyReference.cache
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.AssemblyInfoInputs.cache
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.AssemblyInfo.cs
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.csproj.CoreCompileInputs.cache
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.dll
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\ref\HomeAlone.dll
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.pdb
+C:\Users\liron\source\repos\HomeAlone\HomeAlone\obj\Debug\net5.0\HomeAlone.genruntimeconfig.cache
